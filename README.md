@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Society, lot more productive
-- ⚡ Fun fact: I love to solve rubiks & do a pen spinning
+- ⚡ Fun fact: I love to solve Rubiks & do a Pen Spinning
 
 ### Spotify Playing 🎧
 
