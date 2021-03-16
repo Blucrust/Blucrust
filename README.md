@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=PORTOFOLIO&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fportodems.netlify.com)](https://portodems.netlify.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a just Guy, sit back and enjoy the ride!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
